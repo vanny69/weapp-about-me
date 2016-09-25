@@ -1,4 +1,12 @@
 /**index.wxss**/
+/*.banner {
+  display: block;
+  width: 100%;
+  height: 280rpx;
+  padding: 50rpx 0;
+  background: #333 url(http://mg.soupingguo.com/bizhi/big/10/360/803/10360803.jpg) no-repeat center center;
+}*/
+
 .userinfo {
   display: flex;
   flex-direction: column;
@@ -6,16 +14,17 @@
 }
 
 .userinfo-avatar {
-  width: 128rpx;
-  height: 128rpx;
+  width: 180rpx;
+  height: 180rpx;
   margin: 20rpx;
   border-radius: 50%;
 }
 
 .userinfo-nickname {
-  color: #aaa;
+  color: #eee;
 }
 
 .usermotto {
   margin-top: 200px;
+  color: #eee;
 }

@@ -7,4 +7,6 @@
   justify-content: space-between;
   padding: 200rpx 0;
   box-sizing: border-box;
-} 
+  background: url(./images/bg.jpg) no-repeat 0 0;
+  background-size: cover;
+}
